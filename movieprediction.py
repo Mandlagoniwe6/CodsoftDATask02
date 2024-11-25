@@ -7,7 +7,7 @@ from sklearn.preprocessing import LabelEncoder, StandardScaler
 from sklearn.metrics import mean_squared_error, r2_score
 from xgboost import XGBRegressor
 
-movie_data = pd.read_csv("data.csv", encoding="ISO-8859-1")
+movie_data = pd.read_csv("IMDb Movies India.csv", encoding="ISO-8859-1")
 
 # Drop rows with missing ratings
 movie_data = movie_data.dropna(subset=["Rating"])
