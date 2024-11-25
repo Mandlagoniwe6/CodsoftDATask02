@@ -70,8 +70,8 @@ Follow these simple steps to get started with this project:
 Clone the Repository
 Open your terminal and run:
 
-git clone https://github.com/yourusername/your-repo-name.git  
-cd your-repo-name  
+git clone https://github.com/Mandlagoniwe6/CodsoftDATask02.git  
+cd CodsoftDATask02  
 
 Install Required Libraries
 Ensure you have Python installed, then install the dependencies using:
